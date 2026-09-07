@@ -1,0 +1,4 @@
+interface:
+  display_name: "先问再投"
+  short_description: "把热点新闻和概念股问题重构为可验证的投资核心问题、成立条件与研究清单"
+  default_prompt: "使用 $ask-before-invest 把这个热点新闻重构为可验证的投资核心问题、四个成立条件和研究清单。"
